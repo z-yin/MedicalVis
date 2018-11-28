@@ -1,1 +1,1 @@
-# MedicalVis
+# Medical Visualization
